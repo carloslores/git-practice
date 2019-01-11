@@ -1,0 +1,3 @@
+Name: Carlos Lores
+Age: 26
+Favorite Color: Yellow
